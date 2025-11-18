@@ -3,7 +3,7 @@ spring:
     name: CONNECT2
 
   datasource:
-    url: jdbc:mysql://localhost:3306/connect_profile
+    url: jdbc:mysql://localhost:3306/MUSIC
     username: root
     password: system
 
